@@ -7,7 +7,7 @@ A backend system built using Spring Boot that allows users to create communities
 ---
 
 ## ⚙️ Tech Stack
-
+ 
 * Java 17
 * Spring Boot
 * Spring Security + JWT Authentication
